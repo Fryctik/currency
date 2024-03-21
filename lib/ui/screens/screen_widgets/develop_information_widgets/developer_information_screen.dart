@@ -54,7 +54,9 @@ class DeveloperInformationScreen extends StatelessWidget {
                         padding: const EdgeInsets.only(top: 10),
                         child: Text(
                           'cupertino_icons версии 1.0.6, flutter_native_splash: версии 2.3.10,'
-                          ' flutter_bloc: версии 8.1.4, xml версии 6.5.0, windows1251: версии 2.0.0, http: версии 1.2.1',
+                          ' flutter_bloc: версии 8.1.4, xml версии 6.5.0, windows1251: версии 2.0.0, http: версии 1.2.1'
+                          'auto_route: версии 7.9.1 build_runner: версии 2.4.8 get_it: версии 7.6.7 realm: версии 1.9.0 uuid: версии 4.3.3'
+                          ' shared_preferences: версии 2.2.2',
                           style: theme.primaryTextTheme.displayLarge,
                           textAlign: TextAlign.justify
                         ),
