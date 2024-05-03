@@ -34,7 +34,7 @@ class DeveloperInformationScreen extends StatelessWidget {
                           style: theme.primaryTextTheme.displayLarge,
                           textAlign: TextAlign.justify
                         ),
-                      )
+                      ),
                     ],
                   ),
                 ),
